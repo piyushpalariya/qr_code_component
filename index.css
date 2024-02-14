@@ -37,3 +37,10 @@ img{
     height: 235px;
     border-radius: 10px;
 }
+
+.attribution{
+    display: flex;
+    flex-direction: column;
+    justify-content: center;
+    align-items: center;
+}
